@@ -1,7 +1,7 @@
 # Virtual-Zoom-Gesture-using-OpenCV-Python-CVZone
 Virtual Zoom Gesture using OpenCV Python | CVZone|
 *************************************************
-1-you need to install cv2 and cvzone via pi|
+1-you need to install cv2 and cvzone via pip|
 *************************************************
 2- run the main.py file|
 *************************************************
